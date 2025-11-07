@@ -1,0 +1,7 @@
+¿El sitio carga correctamente en localhost? Sí porque levanto xampp, y levanto apache y mysql. Busco http://localhost/wordpress/wp-admin.
+¿Los menús y páginas funcionan sin errores? Sí porque anteriormente se configuró correctamente.
+¿Los formularios envían datos correctamente? Todavía no lo hemos configurado pero hemos instalado el plugin WPForms.
+¿Los plugins instalados funcionan y están actualizados? Sí porque en wordpress en el apartado de plugins los instalé y los tengo actualizados.
+¿Existe una copia de seguridad reciente? Sí porque con el plugin UpdraftPlus lo he configurado y le he dado a hacer una copia de seguridad.
+¿La estructura de usuarios y permisos es correcta? Sí porque he creado los usuarios con los distintos roles y permisos.
+¿Se aplicaron medidas de seguridad básica? Todavía no está configurado pero hemos instalado el plugin Jetpack.
